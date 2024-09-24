@@ -1,3 +1,2 @@
-import os
-
-print("hello Dayche")
+print("hello World")
+print("OK")
